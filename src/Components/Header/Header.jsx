@@ -37,7 +37,7 @@ function Header() {
 
 							<div>
 								<p>Deliver to</p>
-								<span>Silver Spring</span>
+								<span>Maryland</span>
 							</div>
 						</div>
 					</div>
